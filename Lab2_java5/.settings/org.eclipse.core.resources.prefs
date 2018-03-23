@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/configs/success3.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/product/list.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/student-1.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/student-2.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/student-3.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/student-4.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/student/success2.jsp=UTF-8
+encoding//src/poly/controller/StudentController.java=UTF-8
+encoding//src/poly/controller/StudentMgrController.java=UTF-8
